@@ -1,0 +1,48 @@
+In this we will learn about 
+        1.Input Output 
+        2.variables
+        3.datatypes
+        4.operators 
+ 
+1.what is programming ?
+=> we give instruction to the m/c in the form of code which is called as programming 
+
+
+            M/C <------------------Translator<--------------------code
+        (machine/computer)          (compiler/interpreter)         
+
+2.what is python ?
+-> python is simple & easy
+-> free & open source 
+-> High level language 
+-> developed by gudio van russum 
+-> portable-> for every operating system same line of code 
+
+3.what is variable ?
+A variable is a name is given to a memory location in a program 
+ for eg:- 
+            name="shekh khwaja" 
+          (variable)=(value)
+4.what are identifiers ?
+=> are the names to the variable..
+ . there are certains rules for the identifiers 
+ . cannot start with special symbols 
+ . cannot start with digits for eg 1var but u can name it like var1
+5.what are keywords ?
+ => these are the reserved words
+   there is a dicitionary in python which has some fixed words which are called reserverd words
+Imp--> python is a case sensitive language 
+6.what are comments ?
+=> comments are those lines which cannot read by the compiler 
+ 
+ #--------> used for single line comment 
+ ''''''----------> used for multiline comment 
+ 
+ Types of Operators in python 
+ 1.Arithmetic Operators
+ => (+,-,*,/,%,**) // mathematical operators used perform mathematical operation
+ 2.Assignment Operator 
+ => (=,+=,-=,*=,/=,%=,**=) used to assign  
+ 3.Logical Operator 
+ => not and or 
+ 4.
