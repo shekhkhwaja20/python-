@@ -1,0 +1,53 @@
+Q1.what is string in python ?
+=> string is a datatype that stores a sequence of characters
+
+Basic Operations of strings are 
+1.Concatenation 
+ 
+           "hello" + "world"---------------------------> "helloworld"
+2.length of string
+   
+   len(str)
+Q2.How to create a string 
+str1="this is shekh khwaja"  #double quote 
+str2='my name is khan'        #single quote 
+str3='''shekh khwaja'''        #triple quote 
+
+Espace sequence characters
+ eg-> for space 
+      for nextline 
+
+str1= "This is a string. \n we are creating it is in python (\n) used for nextline 
+
+////Concatenation/////
+adding of two string
+
+   "hello"+"world"--------------------------->"helloworld"
+
+Indexing 
+=> is a kind of position no to string characters
+
+   S H E K H_K H W A J  A 
+   0 1 2 3 456 7 8 9 10 11
+
+indexing used for accesing a element.
+
+Slicing
+=> Accesing parts of a string 
+str[starting_idx:ending_idx] #ending is not included 
+
+Negative index
+
+       A    P   P    L    E 
+      -5    -4  -3   -2   -1 
+
+String Functions.
+
+str="I am a coder"
+str.endswith("er") #returns true if string ends with substring 
+
+str.captilaize() #captilaizes 1st Char 
+
+str.find(word)#returns 1st index of the 1st Occurence 
+
+str.count("am") #counts the occurence of substr in string 
