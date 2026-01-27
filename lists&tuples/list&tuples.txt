@@ -4,3 +4,8 @@ It can store elements of different types(integer,float ,string,etc.)
 
 marks=["karan",85,"Delhi"]
 print(marks[0])=>karan
+
+what is the difference btw the list and string ?
+string are immutable means that they are inchangeable like we can only access it values but cannot change them 
+list are mutable means that they are changeable they are accessible and as well as changeable 
+this is main diff btw the list and string.........
