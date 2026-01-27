@@ -1,0 +1,6 @@
+What is list ?
+=> a built in datatype that store set fo values.
+It can store elements of different types(integer,float ,string,etc.)
+
+marks=["karan",85,"Delhi"]
+print(marks[0])=>karan
