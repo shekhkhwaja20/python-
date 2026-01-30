@@ -9,3 +9,6 @@ what is the difference btw the list and string ?
 string are immutable means that they are inchangeable like we can only access it values but cannot change them 
 list are mutable means that they are changeable they are accessible and as well as changeable 
 this is main diff btw the list and string.........
+what is tuple ?
+=>tuple is a inbuilt data type of python used to store value but it is 
+ordered unchangeable and duplicate values are allowed in it....
