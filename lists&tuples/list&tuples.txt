@@ -12,3 +12,10 @@ this is main diff btw the list and string.........
 what is tuple ?
 =>tuple is a inbuilt data type of python used to store value but it is 
 ordered unchangeable and duplicate values are allowed in it....
+what is slicing in tuple ?
+=>similar to string slicing
+list_name[starting_idx:ending_idx] #ending idx is not included
+
+marks=[87,64,33,95,76]
+
+marks[1:4] is [64,33,95]
