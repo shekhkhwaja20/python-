@@ -19,3 +19,11 @@ list_name[starting_idx:ending_idx] #ending idx is not included
 marks=[87,64,33,95,76]
 
 marks[1:4] is [64,33,95]
+
+note:- we can do the slicing in the negative index manner also 
+There are so many inbuilt function of list...
+list.append(4)
+list.sort()
+list.sort(reverse=True)
+list.reverse()
+list.insert(idx,el)
